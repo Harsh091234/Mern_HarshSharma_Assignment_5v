@@ -5,9 +5,9 @@
 
 
 #### Screenshots
-![Screenshot 1](/public/Screenshots/s1.png)
-![Screenshot 2](/public/Screenshots/s2.png)
-![Screenshot 3](/public/Screenshots/s3.png)
+![Screenshot 1](public/Screenshots/s1.png)
+![Screenshot 2](public/Screenshots/s2.png)
+![Screenshot 3](public/Screenshots/s3.png)
 
 
 ---
